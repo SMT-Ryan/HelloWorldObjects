@@ -1,4 +1,4 @@
-package mainMethod;
+package src.mainMethod;
 
 public class Body {
 	
@@ -17,14 +17,8 @@ public class Body {
 	********************************************************************************/
 	
 	public static void main(String[] args) {
-
-		
-		Body bd = new Body();
-		bd.process();
-		
-	}
 	
-	public void process() {
+
 
 		
 		
@@ -43,8 +37,8 @@ public class Body {
 				
 		bucketDump(bucketInt, bucketDouble, bucketFloat, bucketChar, bucketBool);
 
-		
-	}
+	}	
+	
 		public static void bucketDump( int bucketInt, double bucketDouble, float bucketFloat, char bucketChar, boolean bucketBool) {
 			//********************************************************************************
 			//The assignment requested a use of both method variables, and class variables to display the 
@@ -61,7 +55,7 @@ public class Body {
 		}
 
 
-	}
+}
 
 
 

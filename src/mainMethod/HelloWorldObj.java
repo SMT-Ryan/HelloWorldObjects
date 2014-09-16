@@ -1,4 +1,5 @@
-package mainMethod;
+package src.mainMethod;
+
 
 public class HelloWorldObj {
 	
@@ -14,5 +15,10 @@ public class HelloWorldObj {
 	//********************************************************************************	
 	
 	public String classValue = "Hello World!";
+
+	
+	public HelloWorldObj() { 
+	
+	}
 	
 }

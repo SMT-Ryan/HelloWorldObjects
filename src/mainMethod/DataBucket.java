@@ -1,4 +1,4 @@
-package mainMethod;
+package src.mainMethod;
 
 public class DataBucket {
 	//********************************************************************************
