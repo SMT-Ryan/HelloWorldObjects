@@ -16,7 +16,6 @@ public class HelloWorldObj {
 	
 	public String classValue = "Hello World!";
 
-	
 	public HelloWorldObj() { 
 	
 	}
